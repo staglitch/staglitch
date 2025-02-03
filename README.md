@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Turning Data into Actionable Insights | Data Science & Engineering
 ------------------------------------------------------------------
 
-I'm a data enthusiast who loves turning messy datasets into meaningful insights. With 5+ years of experience in data analytics, front-end development, and a Master’s in Data Science & Analytics, I’ve been lucky to work on projects that mix tech with real business impact. I’ve built everything from ETL pipelines with AWS to machine learning models for sales forecasting and anomaly detection. My toolkit includes Python, SQL, Power BI, and AWS, with a sprinkle of ReactJS from my front-end days. What drives me? Solving problems. Whether it's optimizing data pipelines, finding hidden patterns, or running A/B tests to boost performance—I love the thrill of cracking complex challenges. When I’m not coding, I’m probably exploring new tech, analyzing random datasets for fun, or searching my next travel destination Let’s connect if you’re into data, tech, or cool projects!
+I'm a data enthusiast who loves turning messy datasets into meaningful insights. With 5+ years of experience in data analytics, front-end development, and a Master’s in Data Science & Analytics, I’ve been lucky to work on projects that mix tech with real business impact. I’ve built everything from ETL pipelines with AWS to machine learning models for sales forecasting and anomaly detection. My toolkit includes Python, SQL, Power BI, and AWS, with a sprinkle of ReactJS from my front-end days.
+
+What drives me? Solving problems. Whether it's optimizing data pipelines, finding hidden patterns, or running A/B tests to boost performance—I love the thrill of cracking complex challenges. 
+
+When I’m not coding, I’m probably exploring new tech, analyzing random datasets for fun, or searching my next travel destination Let’s connect if you’re into data, tech, or cool projects!
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Github](http://github.com/staglitch)
