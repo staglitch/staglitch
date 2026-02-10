@@ -10,7 +10,7 @@ What drives me? Solving problems. Whether it's optimizing data pipelines, findin
 
 When I’m not coding, I’m probably exploring new tech, analyzing random datasets for fun, or searching my next travel destination Let’s connect if you’re into data, tech, or cool projects!
 
-* 🌍  I'm based in London
+* 🌍  I'm based in Delhi
 * 🖥️  See my portfolio at [Github](http://github.com/staglitch)
 * ✉️  You can contact me at [kmr.gavish@gmail.com](mailto:kmr.gavish@gmail.com)
 * 🤝  I'm open to collaborating on data-driven projects, from building ETL pipelines and machine learning models to solving complex analytics challenges.
