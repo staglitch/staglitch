@@ -1,19 +1,29 @@
 Hi, I'm Gavish ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Turning Data into Actionable Insights | Data Science & Engineering
-------------------------------------------------------------------
+### Analytics Engineer · Data Pipelines · BI · AI-Powered Analytics
 
-I'm a data enthusiast who loves turning messy datasets into meaningful insights. With 5+ years of experience in data analytics, front-end development, and a Master’s in Data Science & Analytics, I’ve been lucky to work on projects that mix tech with real business impact. I’ve built everything from ETL pipelines with AWS to machine learning models for sales forecasting and anomaly detection. My toolkit includes Python, SQL, Power BI, and AWS, with a sprinkle of ReactJS from my front-end days.
+I build the systems that turn messy, scattered data into decisions people trust: reliable pipelines, clean data models, dashboards people actually use, and lately LLM tools that let anyone ask questions of their data in plain English.
 
-What drives me? Solving problems. Whether it's optimizing data pipelines, finding hidden patterns, or running A/B tests to boost performance—I love the thrill of cracking complex challenges. 
+I've spent ~6 years across **data analytics** and **front-end engineering**, and hold an **MSc in Data Science & Analytics** from Cardiff University (UK). In my last role I automated 45+ hours a week of manual reporting with AWS pipelines and built forecasting models that cut excess inventory by 25%.
 
-When I’m not coding, I’m probably exploring new tech, analyzing random datasets for fun, or searching my next travel destination Let’s connect if you’re into data, tech, or cool projects!
+## 🔭 Currently building
+**UK Property Market Intelligence Platform:** 30M+ HM Land Registry sales → Python ingestion → dbt models → DuckDB → dashboard, with an AI analyst that answers questions in plain English.
 
-* 🌍  I'm based in Delhi
-* 🖥️  See my portfolio at [Github](http://github.com/staglitch)
-* ✉️  You can contact me at [kmr.gavish@gmail.com](mailto:kmr.gavish@gmail.com)
-* 🤝  I'm open to collaborating on data-driven projects, from building ETL pipelines and machine learning models to solving complex analytics challenges.
+## 🛠️ Toolkit
+- **Data engineering:** Python, SQL, PySpark, AWS (Glue, Redshift, S3), Snowflake, star-schema modelling
+- **Analytics & ML:** pandas, scikit-learn, time-series forecasting, A/B testing, causal inference
+- **BI:** Power BI (DAX), Tableau, Looker, Mixpanel
+- **GenAI:** RAG, prompt engineering, AWS Bedrock
+- **🌱 Currently sharpening:** dbt, DuckDB, LLM-powered analytics
+
+## 📫 Let's talk
+- ✉️ Email: gk8793@outlook.com
+- 💼 [LinkedIn]((https://www.linkedin.com/in/gavish-kumar/))
+- 🌐 Portfolio:
+- 🌍 Delhi, India (IST, UTC+5:30). Open to **remote roles** in analytics engineering / data analytics, and to **freelance projects**.
+
+*Outside of data: hard games, the harder the better.* 🎮
 
 ### Skills
 
