@@ -19,7 +19,7 @@ I've spent ~6 years across **data analytics** and **front-end engineering**, and
 
 ## 📫 Let's talk
 - ✉️ Email: gk8793@outlook.com
-- 💼 [LinkedIn]((https://www.linkedin.com/in/gavish-kumar/))
+- 💼 https://www.linkedin.com/in/gavish-kumar/
 - 🌐 Portfolio:
 - 🌍 Delhi, India (IST, UTC+5:30). Open to **remote roles** in analytics engineering / data analytics, and to **freelance projects**.
 
